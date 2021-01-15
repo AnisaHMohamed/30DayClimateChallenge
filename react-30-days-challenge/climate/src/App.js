@@ -21,9 +21,9 @@ function App() {
             height="24%"
           />
           <div>
-            <img src={BlackYouthCommission} width="300px" />
-            <h4>Presents:</h4>
             <h1> The 30 Day Climate Change Challenge</h1>
+            <h4>Presented By:</h4>
+            <img src={BlackYouthCommission} width="200px" />
           </div>
         </div>
         <ChallengeItem />
